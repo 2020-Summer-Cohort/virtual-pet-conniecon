@@ -1,3 +1,4 @@
 # Virtual Pet
 
-See the HELP.md for assignment directions and guide.
+My project is not done. I've turned in what I have. I'm stuck. 
+Not sure what to do.
